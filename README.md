@@ -5,9 +5,8 @@
   />
 </p>
 <h1 align="center">Matheus Tavares</h1>
-
 <p align="center">
-  Desenvolvedor Front-end focado em React e aplicações reais
+  Construindo interfaces modernas com React para cenários reais
 </p>
 
 <p align="center">
@@ -24,6 +23,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=00C46A" />
   </a>
 </p>
+<br><br>
 
 <p align="center" style="max-width: 620px; margin: 0 auto; color: #9CA3AF;">
 Desenvolvo interfaces modernas com React e TypeScript, com foco em organização,
@@ -39,9 +39,13 @@ pensadas para cenários reais.
   <img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=00C46A"/>
 </p>
 
+<br>
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtscto&theme=github_dark" />
 </p>
+
+<br>
 
 <h3 align="center">Nexus Admin</h3>
 
@@ -50,6 +54,7 @@ Dashboard SaaS multi-tenant com controle de acesso por perfil, sistema de planos
 e identidade visual dinâmica por organização.
 Projeto focado em arquitetura de front-end escalável e aplicação em cenários reais.
 </p>
+<br>
 
 <p align="center">
   <a href="https://nexus-admin-7af3.vercel.app/" target="_blank">
